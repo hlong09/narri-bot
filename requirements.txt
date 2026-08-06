@@ -1,1 +1,6 @@
-
+discord.py
+flask
+pymongo
+dnspython
+aiohttp
+chat-exporter
